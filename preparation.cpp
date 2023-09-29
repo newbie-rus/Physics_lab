@@ -1,4 +1,5 @@
-#include "input.h"
+#include "func.h"
+
 
 int preparation (float resistance[], const char* file_name)
 {
